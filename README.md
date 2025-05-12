@@ -1,5 +1,8 @@
 # Configurator
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/localrivet/configurator.svg)](https://pkg.go.dev/github.com/localrivet/configurator)
+[![Go Report Card](https://goreportcard.com/badge/github.com/localrivet/configurator)](https://goreportcard.com/report/github.com/localrivet/configurator)
+
 A flexible, extensible configuration management library for Go applications.
 
 ## Features
